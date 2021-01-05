@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d95bfb4-3ff7-4e0a-b815-39be6cc0a510" name="Default Changelist" comment="" />
+    <list default="true" id="5d95bfb4-3ff7-4e0a-b815-39be6cc0a510" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mMV87WRdE3rKYjTKLQQhg70Y3p" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,17 +28,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Main.java" />
   </component>
-  <component name="RunManager" selected="Application.DoiTien">
-    <configuration name="CheckBMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai1_Introduce.thuc_hanh.CheckBMI" />
+  <component name="RunManager" selected="Application.Nsdsdfdf">
+    <configuration name="DisplayPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai2_Loop.Bai_tap.DisplayPrime" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai1_Introduce.thuc_hanh.*" />
+          <option name="PATTERN" value="Bai2_Loop.Bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -40,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai1_Introduce.thuc_hanh.CheckLeapYear" />
+    <configuration name="DisplayPrime1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai2_Loop.Bai_tap.DisplayPrime1" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai1_Introduce.thuc_hanh.*" />
+          <option name="PATTERN" value="Bai2_Loop.Bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDayOfMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai1_Introduce.thuc_hanh.CountDayOfMonth" />
+    <configuration name="Nsdsdfdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai2_Loop.Thuc_hanh.Nsdsdfdf" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai1_Introduce.thuc_hanh.*" />
+          <option name="PATTERN" value="Bai2_Loop.Thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoiTien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai1_Introduce.bai_tap.DoiTien" />
+    <configuration name="VeHinh (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai2_Loop.Bai_tap.VeHinh" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai1_Introduce.bai_tap.*" />
+          <option name="PATTERN" value="Bai2_Loop.Bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai1_Introduce.bai_tap.Greeting" />
+    <configuration name="VeHinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai2_Loop.Thuc_hanh.VeHinh" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai1_Introduce.bai_tap.*" />
+          <option name="PATTERN" value="Bai2_Loop.Thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoiTien" />
-        <item itemvalue="Application.CheckBMI" />
-        <item itemvalue="Application.Greeting" />
-        <item itemvalue="Application.CheckLeapYear" />
-        <item itemvalue="Application.CountDayOfMonth" />
+        <item itemvalue="Application.Nsdsdfdf" />
+        <item itemvalue="Application.VeHinh (1)" />
+        <item itemvalue="Application.DisplayPrime1" />
+        <item itemvalue="Application.DisplayPrime" />
+        <item itemvalue="Application.VeHinh" />
       </list>
     </recent_temporary>
   </component>
@@ -116,6 +123,7 @@
       <workItem from="1609317458133" duration="1030000" />
       <workItem from="1609343705715" duration="3889000" />
       <workItem from="1609383654298" duration="18010000" />
+      <workItem from="1609728605340" duration="19788000" />
     </task>
     <servers />
   </component>
@@ -131,26 +139,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609343978908" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1609405813435">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1609754966086">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609405813435" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1609405813435">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609754966086" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1609754966086">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609405813435" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1609405813435">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609754966086" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1609754966086">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609405813435" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1609405813435">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609754966086" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1609754966086">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609405813435" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1609383660831">
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609754966086" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1609754966083">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1609383660831" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609754966083" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1609754966083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1609754966083" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1609754966083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1609754966083" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1609754966083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1609754966083" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1609728703352">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1609728703352" />
     <state x="65" y="0" key="new project wizard" timestamp="1609316696601">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
