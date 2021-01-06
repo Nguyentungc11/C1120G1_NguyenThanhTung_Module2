@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d95bfb4-3ff7-4e0a-b815-39be6cc0a510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +32,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Main.java" />
   </component>
-  <component name="RunManager" selected="Application.Nsdsdfdf">
-    <configuration name="DisplayPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai2_Loop.Bai_tap.DisplayPrime" />
+  <component name="RunManager" selected="Application.ConvertTemperatures">
+    <configuration name="ConvertTemperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Thuc_Hanh.ConvertTemperatures" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai2_Loop.Bai_tap.*" />
+          <option name="PATTERN" value="Bai3.Array.Thuc_Hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +46,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayPrime1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai2_Loop.Bai_tap.DisplayPrime1" />
+    <configuration name="MaxInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Thuc_Hanh.MaxInArray" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai2_Loop.Bai_tap.*" />
+          <option name="PATTERN" value="Bai3.Array.Thuc_Hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nsdsdfdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai2_Loop.Thuc_hanh.Nsdsdfdf" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Thuc_Hanh.ReverseArray" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai2_Loop.Thuc_hanh.*" />
+          <option name="PATTERN" value="Bai3.Array.Thuc_Hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VeHinh (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai2_Loop.Bai_tap.VeHinh" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Test" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai2_Loop.Bai_tap.*" />
+          <option name="PATTERN" value="Bai3.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VeHinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai2_Loop.Thuc_hanh.VeHinh" />
+    <configuration name="TimGiaTriTrongMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Thuc_Hanh.TimGiaTriTrongMang" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai2_Loop.Thuc_hanh.*" />
+          <option name="PATTERN" value="Bai3.Array.Thuc_Hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Nsdsdfdf" />
-        <item itemvalue="Application.VeHinh (1)" />
-        <item itemvalue="Application.DisplayPrime1" />
-        <item itemvalue="Application.DisplayPrime" />
-        <item itemvalue="Application.VeHinh" />
+        <item itemvalue="Application.ConvertTemperatures" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MaxInArray" />
+        <item itemvalue="Application.TimGiaTriTrongMang" />
+        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +123,8 @@
       <workItem from="1609343705715" duration="3889000" />
       <workItem from="1609383654298" duration="18010000" />
       <workItem from="1609728605340" duration="19788000" />
+      <workItem from="1609824353852" duration="12271000" />
+      <workItem from="1609894814533" duration="311000" />
     </task>
     <servers />
   </component>
@@ -131,6 +132,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1609839489372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609839489372" />
     <state x="441" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609396575538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -139,22 +144,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609343978908" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1609754966086">
+    <state width="1323" height="84" key="GridCell.Tab.0.bottom" timestamp="1609895195844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609754966086" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1609754966086">
+    <state width="1323" height="84" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609895195844" />
+    <state width="1323" height="84" key="GridCell.Tab.0.center" timestamp="1609895195844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609754966086" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1609754966086">
+    <state width="1323" height="84" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609895195844" />
+    <state width="1323" height="84" key="GridCell.Tab.0.left" timestamp="1609895195843">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609754966086" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1609754966086">
+    <state width="1323" height="84" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609895195843" />
+    <state width="1323" height="84" key="GridCell.Tab.0.right" timestamp="1609895195844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609754966086" />
+    <state width="1323" height="84" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609895195844" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1609754966083">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -171,10 +176,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1609754966083" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1609728703352">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1609894816343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1609728703352" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1609894816343" />
     <state x="65" y="0" key="new project wizard" timestamp="1609316696601">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
