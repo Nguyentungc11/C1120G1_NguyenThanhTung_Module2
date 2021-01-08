@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d95bfb4-3ff7-4e0a-b815-39be6cc0a510" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Bai3/Array/Bai_tap/AddElementToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai3/Array/Bai_tap/CombineTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai3/Array/Bai_tap/DeleteElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai3/Array/Bai_tap/MaxInDimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai3/Array/Bai_tap/MinInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_class_and_object/bai_tap/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_class_and_object/bai_tap/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_class_and_object/bai_tap/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4_class_and_object/thuc_hanh/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5_Access_Modifier/bai_tap/Circle/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mMV87WRdE3rKYjTKLQQhg70Y3p" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,13 +45,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Main.java" />
   </component>
-  <component name="RunManager" selected="Application.ConvertTemperatures">
-    <configuration name="ConvertTemperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Thuc_Hanh.ConvertTemperatures" />
+  <component name="RunManager" selected="Application.Fan">
+    <configuration name="Circle$TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai5_Access_Modifier.bai_tap.Circle.Circle$TestCircle" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai3.Array.Thuc_Hanh.*" />
+          <option name="PATTERN" value="bai5_Access_Modifier.bai_tap.Circle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Thuc_Hanh.MaxInArray" />
+    <configuration name="CombineTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Bai_tap.CombineTwoArray" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai3.Array.Thuc_Hanh.*" />
+          <option name="PATTERN" value="Bai3.Array.Bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Thuc_Hanh.ReverseArray" />
+    <configuration name="DeleteElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Bai_tap.DeleteElementInArray" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai3.Array.Thuc_Hanh.*" />
+          <option name="PATTERN" value="Bai3.Array.Bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Test" />
+    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai4_class_and_object.bai_tap.Fan" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai3.Array.*" />
+          <option name="PATTERN" value="bai4_class_and_object.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimGiaTriTrongMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai3.Array.Thuc_Hanh.TimGiaTriTrongMang" />
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai5_Access_Modifier.bai_tap.Circle.TestCircle" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai3.Array.Thuc_Hanh.*" />
+          <option name="PATTERN" value="bai5_Access_Modifier.bai_tap.Circle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConvertTemperatures" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MaxInArray" />
-        <item itemvalue="Application.TimGiaTriTrongMang" />
-        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.Fan" />
+        <item itemvalue="Application.TestCircle" />
+        <item itemvalue="Application.Circle$TestCircle" />
+        <item itemvalue="Application.DeleteElementInArray" />
+        <item itemvalue="Application.CombineTwoArray" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +137,9 @@
       <workItem from="1609383654298" duration="18010000" />
       <workItem from="1609728605340" duration="19788000" />
       <workItem from="1609824353852" duration="12271000" />
-      <workItem from="1609894814533" duration="311000" />
+      <workItem from="1609894814533" duration="16849000" />
+      <workItem from="1609949220887" duration="14356000" />
+      <workItem from="1609991003419" duration="8245000" />
     </task>
     <servers />
   </component>
@@ -132,34 +147,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1609839489372">
+    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1610004559935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609839489372" />
-    <state x="441" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609396575538">
+    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1610004559935" />
+    <state x="441" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610006020220">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="441" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1609396575538" />
+    <state x="441" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1610006020220" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1609915163118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1609915163118" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1609343978908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609343978908" />
-    <state width="1323" height="84" key="GridCell.Tab.0.bottom" timestamp="1609895195844">
+    <state width="1323" height="239" key="GridCell.Tab.0.bottom" timestamp="1610014939561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="84" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609895195844" />
-    <state width="1323" height="84" key="GridCell.Tab.0.center" timestamp="1609895195844">
+    <state width="1323" height="239" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610014939561" />
+    <state width="1323" height="239" key="GridCell.Tab.0.center" timestamp="1610014939561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="84" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609895195844" />
-    <state width="1323" height="84" key="GridCell.Tab.0.left" timestamp="1609895195843">
+    <state width="1323" height="239" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610014939561" />
+    <state width="1323" height="239" key="GridCell.Tab.0.left" timestamp="1610014939561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="84" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609895195843" />
-    <state width="1323" height="84" key="GridCell.Tab.0.right" timestamp="1609895195844">
+    <state width="1323" height="239" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610014939561" />
+    <state width="1323" height="239" key="GridCell.Tab.0.right" timestamp="1610014939561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="84" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609895195844" />
+    <state width="1323" height="239" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610014939561" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1609754966083">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -176,13 +195,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1609754966083" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1609894816343">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1610077004616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1609894816343" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1610077004616" />
     <state x="65" y="0" key="new project wizard" timestamp="1609316696601">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1609316696601" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1609958149282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1609958149282" />
   </component>
 </project>
