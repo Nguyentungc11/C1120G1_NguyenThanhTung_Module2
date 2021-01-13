@@ -35,7 +35,7 @@ public class Shape {
                 ", filled=" + filled +
                 '}';
     }
-    public class Circle extends Shape{
+    public static class Circle extends Shape{
         private double radius = 1.0;
 
         public Circle() {

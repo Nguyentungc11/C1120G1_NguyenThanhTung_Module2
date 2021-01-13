@@ -1,8 +1,9 @@
 package bai6_ke_thua.bai_tap;
 
 public class Circle {
-    private double radius = 5.0;
-    private String color = "red";
+    protected double radius = 5.0;
+    protected String color = "red";
+    protected boolean filled;
 
     public Circle(double radius, String color) {
         this.radius = radius;
@@ -10,6 +11,12 @@ public class Circle {
     }
 
     public Circle() {
+    }
+
+    public Circle(double radius, String color, boolean filled) {
+        this.radius = radius;
+        this.color = color;
+        this.filled = filled;
     }
 
     public double getRadius() {
@@ -34,7 +41,7 @@ public class Circle {
     @Override
     public String toString() {
         return "Circle has " +
-                "radius = " + radius +
-                ", color='" + color + "Area :" + getArea();
+                " radius = " + radius +
+                ", color ='" + color + " Area :" + getArea();
     }
 }
