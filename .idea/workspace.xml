@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5d95bfb4-3ff7-4e0a-b815-39be6cc0a510" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/bai7_abstrach_interface/baitap/bai_2/TestColorAble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/bai7_abstrach_interface/baitap/bai_2/TestColorAble.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +41,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Main.java" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.LinkedListQueueClient">
-    <configuration name="CheckPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai11_stack_queue.bai_tap.bai_2.CheckPalindrome" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai_13_thuat_toan_tim_kiem.thuc_hanh.BinarySearch" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai11_stack_queue.bai_tap.bai_2.*" />
+          <option name="PATTERN" value="bai_13_thuat_toan_tim_kiem.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListQueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai11_stack_queue.thuc_hanh.bai_2.LinkedListQueueClient" />
+    <configuration name="CheckBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai11_stack_queue.bai_tap.bai_3_kiem_tra_dau_ngoac.CheckBracket" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai11_stack_queue.thuc_hanh.bai_2.*" />
+          <option name="PATTERN" value="bai11_stack_queue.bai_tap.bai_3_kiem_tra_dau_ngoac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyGenericStack$GenericStackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai11_stack_queue.thuc_hanh.bai_1.MyGenericStack$GenericStackClient" />
+    <configuration name="CountWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai11_stack_queue.bai_tap.bai_5_dem_soluong_tu_trong_chuoi.CountWord" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai11_stack_queue.thuc_hanh.bai_1.*" />
+          <option name="PATTERN" value="bai11_stack_queue.bai_tap.bai_5_dem_soluong_tu_trong_chuoi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai11_stack_queue.bai_tap.bai_1.TestDecimalToBinary" />
+    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai11_stack_queue.thuc_hanh.bai_3_trien_khai_queue.MyQueue" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai11_stack_queue.bai_tap.bai_1.*" />
+          <option name="PATTERN" value="bai11_stack_queue.thuc_hanh.bai_3_trien_khai_queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyArrayList$Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai10_danh_sach.bai_tap.bai_1.TestMyArrayList$Student" />
+    <configuration name="TestDeMering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai11_stack_queue.bai_tap.bai_4_demerging.TestDeMering" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai10_danh_sach.bai_tap.bai_1.*" />
+          <option name="PATTERN" value="bai11_stack_queue.bai_tap.bai_4_demerging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedListQueueClient" />
-        <item itemvalue="Application.TestMyArrayList$Student" />
-        <item itemvalue="Application.MyGenericStack$GenericStackClient" />
-        <item itemvalue="Application.CheckPalindrome" />
-        <item itemvalue="Application.TestDecimalToBinary" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.CountWord" />
+        <item itemvalue="Application.TestDeMering" />
+        <item itemvalue="Application.CheckBracket" />
+        <item itemvalue="Application.MyQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +145,10 @@
       <workItem from="1610571975966" duration="3065000" />
       <workItem from="1610587279969" duration="13303000" />
       <workItem from="1610635186846" duration="7357000" />
-      <workItem from="1610673529127" duration="1681000" />
+      <workItem from="1610673529127" duration="17217000" />
+      <workItem from="1610901121116" duration="2829000" />
+      <workItem from="1610971883670" duration="2423000" />
+      <workItem from="1611114568284" duration="8126000" />
     </task>
     <servers />
   </component>
@@ -154,10 +156,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1610641637157">
+    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1611131354444">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1610641637157" />
+    <state x="488" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611131354444" />
     <state x="263" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610555193075">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -174,22 +176,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609343978908" />
-    <state width="1323" height="283" key="GridCell.Tab.0.bottom" timestamp="1610675132600">
+    <state width="1323" height="283" key="GridCell.Tab.0.bottom" timestamp="1611134948582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="283" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610675132600" />
-    <state width="1323" height="283" key="GridCell.Tab.0.center" timestamp="1610675132600">
+    <state width="1323" height="283" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611134948582" />
+    <state width="1323" height="283" key="GridCell.Tab.0.center" timestamp="1611134948582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="283" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610675132600" />
-    <state width="1323" height="283" key="GridCell.Tab.0.left" timestamp="1610675132600">
+    <state width="1323" height="283" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611134948582" />
+    <state width="1323" height="283" key="GridCell.Tab.0.left" timestamp="1611134948582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="283" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610675132600" />
-    <state width="1323" height="283" key="GridCell.Tab.0.right" timestamp="1610675132600">
+    <state width="1323" height="283" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611134948582" />
+    <state width="1323" height="283" key="GridCell.Tab.0.right" timestamp="1611134948582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="283" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610675132600" />
+    <state width="1323" height="283" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611134948582" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1609754966083">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -210,10 +212,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610358457104" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1610673536759">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1611115184158">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1610673536759" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1611115184158" />
     <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1610425364492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
